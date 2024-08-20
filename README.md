@@ -32,9 +32,7 @@ Tap on an existing task to edit its details.
 Make the necessary changes and tap Save.
 Mark a Task as Completed:
 Tap the checkbox next to a task to mark it as completed.
-Video Demonstration
 
-Check out a video demonstration of the app's functionality here.
 
 Contributing
 
